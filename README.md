@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="MeetTracker Banner"/>
+  <img src="app/src/assets/banner.png" alt="MeetTracker Banner"/>
 </p>
 
 <h1 align="center">📍 MeetTracker App 🚗</h1>
