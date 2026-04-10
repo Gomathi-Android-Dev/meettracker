@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/assets/banner.png" alt="MeetTracker Banner"/>
+  <img src="assets/banner.png" alt="MeetTracker Banner"/>
 </p>
 
 <h1 align="center">📍 MeetTracker App 🚗</h1>
@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/Google%20Maps-API-red"/>
 </p>
 
-# 📍 MeetTracker App 🚗
-
-**MeetTracker** is a real-time location-sharing Android application built using Jetpack Compose, Firebase Realtime Database, and Google Maps API.
+ **MeetTracker** is a real-time location-sharing Android application built using Jetpack Compose, Firebase Realtime Database, and Google Maps API.
 The app allows users to schedule meetings and track participants' live movements on a map with custom markers.
 
 ---
