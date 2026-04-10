@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783070263921",
+    "project_id": "meettrackerapp",
+    "storage_bucket": "meettrackerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783070263921:android:4d954588a3d55936fe79d0",
+        "android_client_info": {
+          "package_name": "com.anniyam.meettrackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTho-Rvn3NzBGj-9n_O_6Xx4SABNWwJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
